@@ -136,4 +136,16 @@ a {
     border-radius: 20px;
     text-decoration: none;
 }
+
+@media (max-width:900px) {
+    .moutain-img {
+        width: 90%;
+    }
+
+    .bottom-cloud {
+        position: absolute;
+        left: 300px;
+        bottom: 210px;
+    }
+}
 /* --------- ID PROPERTY --------- */
